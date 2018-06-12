@@ -9,4 +9,4 @@ Construct by using HTML, CSS, JavaScript, MongoDB, Python
 In order to use the website, run under python 2.7 environment
 localhost 8000
 
-Copyright reserved by Team InSPIRE
+Copyright © 2018.All rights reserve
